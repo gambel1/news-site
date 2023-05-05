@@ -2,7 +2,7 @@
   "name": "project-news",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://gambel1.github.io/news-site",
+  "homepage": "https://gadgetadd.github.io/news-site",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /news-site/"
