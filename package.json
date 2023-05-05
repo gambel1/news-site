@@ -2,21 +2,12 @@
   "name": "project-news",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://gadgetadd.github.io/news-site",
+  "homepage": "https://gambel1.github.io/news-site",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /news-site/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gadgetadd/project-news.git"
-  },
-  "keywords": [],
-  "author": "Maksym Ostapchuk <gadget.add@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gadgetadd/project-news/issues"
-  },
+  
   "dependencies": {
     "axios": "^1.3.4",
     "lodash.throttle": "^4.1.1",
